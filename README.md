@@ -1,12 +1,12 @@
 # CoinPriceBar_CN
 
+![Screenshot - from ifun.de](https://github.com/T-Pham/CoinPriceBar/blob/master/Screenshots/screenshot.jpg?raw=true)
+
 > 修改币种为人民币
 
 ## 下载
 
 - [Mac](https://github.com/discountry/CoinPriceBar/releases/download/1.5.1/CoinPriceBar_CN.app.zip)
-
-![Screenshot - from ifun.de](https://github.com/T-Pham/CoinPriceBar/blob/master/Screenshots/screenshot.jpg?raw=true)
 
 Cyptocurrency prices on MacBook Touch Bar.
 
