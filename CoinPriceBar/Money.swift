@@ -19,7 +19,7 @@ enum Coin: String {
 }
 
 enum FiatMoney: String {
-  case USD
+  case CNY
 }
 
 extension Coin {
