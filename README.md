@@ -4,7 +4,7 @@
 
 > 修改币种为人民币
 
-## 下载
+## [下载](https://github.com/discountry/CoinPriceBar/releases/download/1.5.1/CoinPriceBar_CN.app.zip)
 
 - [Mac](https://github.com/discountry/CoinPriceBar/releases/download/1.5.1/CoinPriceBar_CN.app.zip)
 
