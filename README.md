@@ -1,4 +1,10 @@
-# CoinPriceBar
+# CoinPriceBar_CN
+
+> 修改币种为人民币
+
+## 下载
+
+- [Mac](https://github.com/discountry/CoinPriceBar/releases/download/1.5.1/CoinPriceBar_CN.app.zip)
 
 ![Screenshot - from ifun.de](https://github.com/T-Pham/CoinPriceBar/blob/master/Screenshots/screenshot.jpg?raw=true)
 
@@ -26,7 +32,7 @@ The app runs in background and can be accessed anywhere by tapping the `₿` ico
 
 ## Download
 
-- [Mac](https://github.com/T-Pham/CoinPriceBar/releases/download/1.5/CoinPriceBar.app.zip)
+- [Mac](https://github.com/discountry/CoinPriceBar/releases/download/1.5.1/CoinPriceBar_CN.app.zip)
 - [Windows](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ![Download](https://img.shields.io/github/downloads/T-Pham/CoinPriceBar/total.svg?style=flat-square&label=&colorA=000000&colorB=000000)
